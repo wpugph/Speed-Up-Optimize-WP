@@ -135,7 +135,7 @@ class Speed_Up_Optimize_Settings {
 	private function settings_fields() {
 
 		$settings['standard'] = array(
-			
+
 			'title'					=> __( 'Main Settings', 'speed-up-optimize' ),
 			'description'			=> __( 'This will hold the settings of the plugin.', 'speed-up-optimize' ),
 			'fields'				=> array(
