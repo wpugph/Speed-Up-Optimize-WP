@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: Speed Up Optimize Tool
- * Version: 1.0.0
+ * Version: 1.0.1
  * Plugin URI: https://carl.alber2.com/
  * Description: Tool to help analyze scripts and css loaded in header and footer, useful in planning to do pagepseed optimizations.
  * Author: Carl Alberto
  * Author URI: https://carl.alber2.com/
  * Requires at least: 4.0
- * Tested up to: 4.0
+ * Tested up to: 6.0.3
  *
  * Text Domain: speed-up-optimize
  * Domain Path: /languages/
@@ -39,7 +39,7 @@ require_once( 'includes/class-speed-up-optimize-main.php' );
  */
 function speed_up_optimize() {
 	// Plugin main variables.
-	$latest_plugin_version = '1.0.0';
+	$latest_plugin_version = '1.0.1';
 	$settings_prefix = 'plg1_';
 
 	$pluginoptions = array(
