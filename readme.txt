@@ -3,8 +3,8 @@ Contributors: carl-alberto
 Donate link: https://carl.alber2.com/
 Tags: wordpress, plugin, template
 Requires at least: 3.9
-Tested up to: 4.0
-Stable tag: 1.0.0
+Tested up to: 6.0.3
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,11 @@ Installing "Speed Up Optimize" can be done either by searching for "Speed Up Opt
 == Frequently Asked Questions ==
 
 == Changelog ==
+
+
+= 1.0.1 =
+* 2022-10-24
+* Version bump for wp 6.0.3 compatibility
 
 = 1.0.0 =
 * 2017-01-01
